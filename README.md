@@ -1,7 +1,3 @@
-Here's a revised README for the XME.digital Core repository:
-
----
-
 # XME.digital Core
 
 **Open-source fast-code platform for building SaaS products, B2B/B2C solutions, and rapid prototyping**
